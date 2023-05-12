@@ -5,8 +5,12 @@ En su labor  de programador de software ha sido elegido para el desarrollo de un
 * Para efectos de mantener la simplicidad del aplicativo no se complementa el nuevo surtido  que ingrese al establecimiento.
 * No se verifica el estado del producto, ni se verifica la logistica inversa.
  
-##Análisis del Ejercicio:
+## Análisis del Ejercicio:
 ![image](https://github.com/camilo-12/ventas.github.io/assets/132966416/1ddd77e3-5272-4bea-ac34-2032f7d63ef3)
+
+## Aproximación Caso de Uso:
+![image](https://github.com/camilo-12/ventas.github.io/assets/132966416/d07442f9-cc01-48b7-b81f-3e6d438f10a5)
+
 
 
 
