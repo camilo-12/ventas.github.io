@@ -4,4 +4,9 @@ En su labor  de programador de software ha sido elegido para el desarrollo de un
 * Se supondrá que la aplicación  solo se requiere para calcular el procentaje de ventas mensuales del almacen.
 * Para efectos de mantener la simplicidad del aplicativo no se complementa el nuevo surtido  que ingrese al establecimiento.
 * No se verifica el estado del producto, ni se verifica la logistica inversa.
+ 
+##Análisis del Ejercicio:
+![image](https://github.com/camilo-12/ventas.github.io/assets/132966416/1ddd77e3-5272-4bea-ac34-2032f7d63ef3)
+
+
 
