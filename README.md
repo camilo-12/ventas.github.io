@@ -12,10 +12,10 @@ En su labor  de programador de software ha sido elegido para el desarrollo de un
 ## Aproximación Caso de Uso:
 ![image](https://github.com/camilo-12/ventas.github.io/assets/132966416/d07442f9-cc01-48b7-b81f-3e6d438f10a5)
 
-## Diagrama de flujo
+## Diagrama de flujo:
 ![image](https://github.com/camilo-12/ventas.github.io/assets/132966416/827666c5-6425-4bb7-b0c3-5f825112e755)
 
-## Seudocódigo
+## Seudocódigo:
 ![image](https://github.com/camilo-12/ventas.github.io/assets/132966416/9455154c-4d9c-4184-9856-1940d05ca3c7)
 
 
